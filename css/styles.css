@@ -439,6 +439,7 @@ padding: 100px 0;}
         .footer-social-icon {
             fill: #f4f4fd;
         }
+                .container-input-footer{margin-left: 80px; }
                 .form-footer-p {
                     margin-bottom: 16px;
                     font-weight: 500;
@@ -492,6 +493,7 @@ padding: 100px 0;}
         
                 .icon-subscribe {
                     margin-left: 16px;
+                    fill: #ffffff;
                 }
 
        /* papup*/
